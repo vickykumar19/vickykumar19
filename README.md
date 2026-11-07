@@ -43,7 +43,17 @@ A Python-based application that analyzes resumes, extracts skills, evaluates ATS
 - GitHub: [@vickykumar19](https://github.com/vickykumar19)
 - LinkedIn: [My LinkedIn Profile](https://www.linkedin.com/in/vicky710/)
 
-<!--
+<!### 💻 Languages & Tools
+
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=java,python,git,github,vscode" />
+</p>
+
+### 📊 Currently Learning
+
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=mysql,html,css" />
+</p>--
 **vickykumar19/vickykumar19** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
